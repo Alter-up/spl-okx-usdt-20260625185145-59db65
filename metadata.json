@@ -2,12 +2,12 @@
   "name": "okxꓸwebꓸapp",
   "symbol": "UЅⅮΤ",
   "description": "Custom utility token. Not affiliated with any other project.",
-  "image": "https://raw.githubusercontent.com/Alter-up/spl-okx-usdt-20260625185145-59db65/main/logo.png",
+  "image": "https://raw.githubusercontent.com/Alter-up/spl-okx-usdt-20260625185145-59db65/main/okx-logo.png",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/Alter-up/spl-okx-usdt-20260625185145-59db65/main/logo.png",
+        "uri": "https://raw.githubusercontent.com/Alter-up/spl-okx-usdt-20260625185145-59db65/main/okx-logo.png",
         "type": "image/png"
       }
     ],
